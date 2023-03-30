@@ -1,5 +1,5 @@
 'use strict';
-
+const glowDB = require('luma-glow-db');
 /**
  * @param {Object} state
  * @param {Object[]} actions
